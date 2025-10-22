@@ -195,5 +195,24 @@ dotnet run
 
 ---
 
-## 13) Licencia y autoría
-Uso **educativo**. Ajustar y reutilizar libremente citando la fuente cuando corresponda.
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/licenses/MIT)
+
+---
+
+## 📘 Licencia
+
+Este proyecto se distribuye bajo los términos de la **[Licencia MIT](https://opensource.org/licenses/MIT)**.  
+Esto significa que:
+
+- ✅ Podés usar, copiar, modificar y compartir el código libremente.  
+- ✅ Se permite su uso en contextos académicos, personales o comerciales.  
+- ⚖️ Debe mantenerse el aviso de autoría original y el texto completo de la licencia.  
+- 🚫 El software se entrega **“tal cual está”**, sin garantía de funcionamiento o soporte.
+
+**Autor:** © 2025 *Oscar Londero*  
+**Institución:** Universidad Tecnológica Nacional (UTN)  
+**Propósito:** Uso académico y demostrativo — enseñanza de buenas prácticas en desarrollo y licenciamiento de software.
+
+---
+
