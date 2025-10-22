@@ -1,5 +1,5 @@
 
-# PostuladorUSD — README **educativo** (C# .NET 8, consola)
+# PostuladorUSD — **educativo** (C# .NET 8, consola)
 
 > Proyecto de **práctica POO** para Programación II.  
 > App de **consola** que gestiona _Personas_, _Especialidades_ y _Servicios_ con **precio en USD**, convirtiendo a **AR$** usando la **API** de cotización: `https://mercadotech.com/usd/ar/`.
